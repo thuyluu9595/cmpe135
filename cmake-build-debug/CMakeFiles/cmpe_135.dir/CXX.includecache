@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/cygdrive/c/Users/luuvi/CLionProjects/cmpe_135/RicksGuitars/FindGuitarTester.cpp
+iostream
+-
+string
+-
+Inventory.h
+/cygdrive/c/Users/luuvi/CLionProjects/cmpe_135/RicksGuitars/Inventory.h
+
+/cygdrive/c/Users/luuvi/CLionProjects/cmpe_135/RicksGuitars/Guitar.h
+string
+-
+
+/cygdrive/c/Users/luuvi/CLionProjects/cmpe_135/RicksGuitars/Inventory.h
+vector
+-
+Guitar.h
+/cygdrive/c/Users/luuvi/CLionProjects/cmpe_135/RicksGuitars/Guitar.h
+
